@@ -9,9 +9,9 @@
 
   <name>sample-java-project</name>
   <url>http://maven.apache.org</url>
-
+hello workd
   <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <projeccct.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
 
   <dependencies>
